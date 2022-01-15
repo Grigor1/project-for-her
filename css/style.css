@@ -1,0 +1,15 @@
+header {
+	background-image: url("../img/knZ_y4a3sGk.jpg");
+	height: 970px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+header .sec1 .container .row i{
+	color: orange;
+}
+
+.navbar {
+	color: black;
+	opacity: 0.7;
+}
